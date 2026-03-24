@@ -1,0 +1,9 @@
+*.pt
+*.pth
+*.zip
+*.jsonl
+data/
+outputs/
+__pycache__/
+.env
+venv/
